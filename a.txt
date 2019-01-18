@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>contact me</title>
+  </head>  
+  <body>
+    <h1>About me</h1>
+    <nav>
+    <a href="#intro"> Introduction </a> <br>
+    <a href="#social_media">social media</a><br>    
+    <a href="#email">email</a>  
+    </nav> 
+    
+    <h2 id="intro">Introduction</h2>
+    <p> I am new to HTML5.<br>My goal is to lean front end web development.<br>I am new to this course.</p>
+      
+    <h2 id="social_media">Social media</h2>
+    <p>you can reach me only on <a href="https://www.linkedin.com/" > linkedin</a> </p> 
+     
+    <h2 id="email">email</h2>
+    <p>My EmailID: lavanyas7384@gmail.com</p>
+  </body>
+  </html>
